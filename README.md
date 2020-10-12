@@ -8,4 +8,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimsiddiqui&layout=compact" alt="qasimsiddiqui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qasimsiddiqui&show_icons=true" alt="qasimsiddiqui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qasimsiddiqui&show_icons=true&show-private=true" alt="qasimsiddiqui" /></p>
