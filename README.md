@@ -5,8 +5,12 @@
 - 🔭 I’m currently working on developing a [Movies App using Flutter framework](https://github.com/qasimsiddiqui/MovieApp)
 - 🌱 I’m currently learning how to use an API (integrating into movie app)
 
-![Qasim's github stats](https://github-readme-stats.vercel.app/api?username=qasimsiddiqui&count_private=true&show_icons=true)
-
+<a href="https://github.com/qasimsiddiqui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qasimsiddiqui&show_icons=true" />
+</a>
+<a href="https://github.com/qasimsiddiqui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimsiddiqui&layout=compact" />
+</a>
 
 <!--
 **qasimsiddiqui/qasimsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
