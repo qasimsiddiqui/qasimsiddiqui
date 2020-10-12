@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on developing a Movies App using Flutter framework
 - 🌱 I’m currently learning how to use an API (integrating into movie app)
 
+![Qasim's github stats](https://github-readme-stats.vercel.app/api?username=qasimsiddiqui&count_private=true&show_icons=true)
+
 
 <!--
 **qasimsiddiqui/qasimsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
