@@ -2,7 +2,7 @@
 
 #### An Undergraduate Computer Science student and tech enthusiast.
 
-- 🔭 I’m currently working on developing a Movies App using Flutter framework
+- 🔭 I’m currently working on developing a [Movies App using Flutter framework](https://github.com/qasimsiddiqui/MovieApp)
 - 🌱 I’m currently learning how to use an API (integrating into movie app)
 
 ![Qasim's github stats](https://github-readme-stats.vercel.app/api?username=qasimsiddiqui&count_private=true&show_icons=true)
