@@ -18,7 +18,7 @@ There are 10 types of people in the world. Those who get Binary and those who do
 <a href="https://mysql.com/" target="_blank"> <img src="./images/sql.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="./images/linux.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src = './images/django.svg' width="60" height='40'/> </a>
-
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="90" height='40'/></a>
   
 <h2>My Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimsiddiqui&layout=compact" alt="qasimsiddiqui" /></p>
